@@ -1,0 +1,14 @@
+{
+  "name": "Lulu radio",
+  "version": "1.0.0",
+  "description": "premier bot radio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Lucio",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
